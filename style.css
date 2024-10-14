@@ -1,0 +1,49 @@
+ body {
+	background-color: white;
+	font-family: Arial, sans-serif; 
+}
+
+header {
+	background-color: black;
+	text-align: center;
+	color: white
+}
+header .h1 {
+	font-size: 18px;
+	color: white;
+}
+ 
+header ul {
+	display: inline-flex;
+	list-style: none;
+	font-size: 14px;
+
+}
+header li {
+	padding: 8px;
+	color: white;
+}
+header a {
+	color: azure;
+	text-decoration-line: none;
+}
+
+.main {
+	text-align: center;
+	background-color: lightgrey;
+}
+body .img {
+	position: center;
+}
+
+td, th {
+	width: 100%;
+	background-color: lightgray;
+	border: 1px solid;
+	text-align:center;
+}
+footer {
+	background-color: black;
+	color: bisque;
+	text-align:center
+}
